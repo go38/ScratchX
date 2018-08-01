@@ -96,7 +96,7 @@
             ['R', 'Current count', 'current_step']
         ]
     };
-
+    
     // Register the extension
     ScratchExtensions.register('SippSensor', descriptor, ext);
 })({});
